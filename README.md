@@ -13,7 +13,7 @@
 ### Analysis of Outcomes Based on Goals
     An analysis was done for all campaigns for plays, they are further divided based on the goal amount, and analysis was done to see the percentage of successful, failed, and canceled campaigns for each group of goal amounts in this graph. 
     
-    ![](Outcomes_VS_Goals.png)
+![](Outcomes_VS_Goals.png)
 ### Challenges and Difficulties Encountered
     Getting the number of successful, failed and canceled campaigns was difficult due to the many different parameters and groups, the groups for higher goal amounts also contains too few data points to draw reliable conclusions.
 ## Results
