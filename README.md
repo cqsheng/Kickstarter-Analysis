@@ -9,11 +9,11 @@
 ### Analysis of Outcomes Based on Launch Date
     An analysis was done for all theater based campaigns, they are also further divided based on the month the campaign launched, and measure against eachother to determine which months had the most successful campaigns in this graph. 
     
-    ![](/images/Theater_Outcomes_VS_Launch.png)
+![](/images/Theater_Outcomes_VS_Launch.png)
 ### Analysis of Outcomes Based on Goals
     An analysis was done for all campaigns for plays, they are further divided based on the goal amount, and analysis was done to see the percentage of successful, failed, and canceled campaigns for each group of goal amounts in this graph. 
     
-![](Outcomes_VS_Goals.png)
+![](/images/Outcomes_VS_Goals.png)
 ### Challenges and Difficulties Encountered
     Getting the number of successful, failed and canceled campaigns was difficult due to the many different parameters and groups, the groups for higher goal amounts also contains too few data points to draw reliable conclusions.
 ## Results
